@@ -1,22 +1,22 @@
 ### Tech skills  
 #### Programming skills 
-![](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
-![](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
-![](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://shields.io/badge/-HTML5-orange) 
+![](https://shields.io/badge/-CSS3-blue) 
+![](https://shields.io/badge/-JavaScript-yellow) 
 
 #### Frameworks and libraries
-![](https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white) 
+![](https://shields.io/badge/-Sass-ff69b4)  
 
 #### Design
-![](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) 
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![](https://shields.io/badge/-Figma-important) 
+![](https://shields.io/badge/-Canva-9cf)
 
 #### IDEs/Editors
-![](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![](https://shields.io/badge/-Visual_Studio_Code-informational) 
+![](https://shields.io/badge/-Sublime_Text-inactive)
 
 #### Version Control 
-![](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![](https://shields.io/badge/-Git-orange) 
+![](https://shields.io/badge/-GitHub-inactive)
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
