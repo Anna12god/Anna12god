@@ -16,3 +16,9 @@
 ![](https://shields.io/badge/-GitHub-inactive)
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
+
+<div>
+  <a href="https://beacons.ai/Anna12god">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username-Anna12god&show_icons-true&theme-drcula&include_all_commits-true&count_private-true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-Anna12god&layout-compact&langs_count-16&theme-dracula"/>
+</div>
