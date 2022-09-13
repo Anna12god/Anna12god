@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna12god&layout=compact)
+
 ### Tech skills  
 **Programming skills:**  
 ![](https://shields.io/badge/-HTML5-orange) 
@@ -16,5 +18,3 @@
 ![](https://shields.io/badge/-GitHub-inactive)
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna12god&layout=compact)
