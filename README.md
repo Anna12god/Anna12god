@@ -18,4 +18,4 @@
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna12god&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna12god&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna12god&layout=compact)](https://github.com/Anna12god/github-readme-stats)
